@@ -1,0 +1,25 @@
+C:\Users\NICK\Python>python main1.py
+neural1python1hello
+
+C:\Users\NICK\Python>python main1.py
+neural1random1python
+
+C:\Users\NICK\Python>python main1.py
+lesson4hello
+
+C:\Users\NICK\Python>python main1.py
+neural9lesson
+
+C:\Users\NICK\Python>python main1.py
+random
+
+C:\Users\NICK\Python>python main1.py
+python2neural2random
+
+C:\Users\NICK\Python>python main1.py
+random9neural
+
+C:\Users\NICK\Python>python main1.py
+python5neural
+
+C:\Users\NICK\Python>

@@ -1,0 +1,4 @@
+C:\Users\NICK\JUPYTER_NOTEBOOK_01-03-2022\1_хмярхрср_хх\йспя_PYTHON_2022\СПНЙ7\venv\Scripts\python.exe C:/Users/NICK/JUPYTER_NOTEBOOK_01-03-2022/1_хмярхрср_хх/йспя_PYTHON_2022/СПНЙ_7/СПНЙ7_2.py
+My OS is win32 ( nt )
+
+Process finished with exit code 0
